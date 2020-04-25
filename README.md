@@ -1,1 +1,1 @@
-# create a stunning site with webslides
+# how to use Webslides
