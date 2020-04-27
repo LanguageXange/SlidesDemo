@@ -1,5 +1,7 @@
 ## View Live Demo: 
 
 Resources:
-1.
-2.
+- youtube tutorial:
+- webslides github link: 
+
+
